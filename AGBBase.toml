@@ -15,6 +15,9 @@ game_objects = [
     { name = "PhotoViewer" },
     { name = "PhotoViewer (1)" },
     { name = "PhotoViewer (2)" },
+    { name = "Test (2)" },
+    { name = "Test (2)" },
+    { name = "Test (2)" },
 ]
 
 [[block]]
