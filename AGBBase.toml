@@ -18,6 +18,7 @@ game_objects = [
     { name = "Test (2)" },
     { name = "Test (2)" },
     { name = "Test (2)" },
+    { name = "Test (4)" },
 ]
 
 [[block]]
